@@ -1,0 +1,6 @@
+{
+  "name": "agent-isla-analizador-de-texto-con-conteo-morusl4p",
+  "version": "1.0.0",
+  "description": "Proyecto de Isla [Gen24]: analizador de texto con conteo de palabras y estadisticas",
+  "main": "index.js"
+}
